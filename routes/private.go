@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"github.com/amirnilofari/hash-go-mysql/controllers"
-	"github.com/amirnilofari/hash-go-mysql/middlewares"
+	"github.com/amirnilofari/blogeston/controllers"
+	"github.com/amirnilofari/blogeston/middlewares"
 	"github.com/gin-gonic/gin"
 )
 

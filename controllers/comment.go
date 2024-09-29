@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/amirnilofari/hash-go-mysql/models"
-	"github.com/amirnilofari/hash-go-mysql/utils"
+	"github.com/amirnilofari/blogeston/models"
+	"github.com/amirnilofari/blogeston/utils"
 	"github.com/gin-gonic/gin"
 )
 

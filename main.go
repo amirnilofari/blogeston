@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/amirnilofari/hash-go-mysql/routes"
-	"github.com/amirnilofari/hash-go-mysql/utils"
+	"github.com/amirnilofari/blogeston/routes"
+	"github.com/amirnilofari/blogeston/utils"
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
 )

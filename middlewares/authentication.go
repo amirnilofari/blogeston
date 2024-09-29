@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/amirnilofari/hash-go-mysql/models"
-	"github.com/amirnilofari/hash-go-mysql/utils"
+	"github.com/amirnilofari/blogeston/models"
+	"github.com/amirnilofari/blogeston/utils"
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v5"
 )

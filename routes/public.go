@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/amirnilofari/hash-go-mysql/controllers"
+	"github.com/amirnilofari/blogeston/controllers"
 	"github.com/gin-gonic/gin"
 )
 
